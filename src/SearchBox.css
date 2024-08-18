@@ -1,0 +1,11 @@
+.SearchBox{
+    
+text-align: center;
+margin-right: auto;
+margin-bottom: 1rem;
+}
+.InfoBox{
+    
+display: flex;
+justify-content: center;
+}
